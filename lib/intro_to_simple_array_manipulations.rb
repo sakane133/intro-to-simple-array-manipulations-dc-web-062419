@@ -23,3 +23,7 @@ end
 def using_concat(array, group)
   array.concat(group)
 end 
+
+def using_insert(array, element)
+array.insert(element, 4)
+end
